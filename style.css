@@ -1,0 +1,44 @@
+body{
+     background-image: url(./images/bg_main.gif);
+     background-position: center;
+}
+.navs{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(90, 144, 214);
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    margin: 0 auto;
+
+    
+}
+.cont{
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 10px;
+
+}
+.logo{
+    position: absolute;
+    top: 100px;
+    left: 200px;  
+}
+
+.txt{
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    color: white; 
+}
+.txts{
+    position: absolute;
+    top: 140px;
+    left: 300px;
+    color: white; 
+}
+
+.nav-item a:hover{
+    background-color: green;
+    color: white;
+}
